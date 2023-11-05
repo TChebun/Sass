@@ -1,0 +1,13 @@
+%flexSpaceBetween {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+%fontSize20px {
+  font-size: 1.25rem;
+}
+
+%transitionForLinks {
+  transition: 0.3s ease-out;
+}
